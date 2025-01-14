@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "3d-rendered-cute-student-with-question-mark-free-png.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true,
+    "template-rendering-intent" : "original"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Ask Question" : {
+
+    },
+    "Camera Permission" : {
+
+    },
+    "completetion" : {
+
+    },
+    "Custom Message" : {
+
+    },
+    "Error - sometheng worng" : {
+
+    },
+    "Message Examples" : {
+
+    },
+    "Microphone Permission" : {
+
+    },
+    "No Internet Connection" : {
+
+    },
+    "Notification Permission" : {
+
+    },
+    "QR-code" : {
+
+    }
+  },
+  "version" : "1.0"
+}
