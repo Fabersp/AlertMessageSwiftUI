@@ -31,7 +31,7 @@
 
 ### **1. Import the Package**
 
-In your Swift file, import `MessageUIKit`:
+In your Swift file, import `AlertMessageSwiftUI`:
 ```swift
 import AlertMessageSwiftUI
 ```
@@ -43,7 +43,7 @@ import AlertMessageSwiftUI
 Create an instance of `AppThemeManager` to define app-specific styles:
 ```swift
 import SwiftUI
-import MessageUIKit
+import AlertMessageSwiftUI
 
 public class AppThemeManager: ObservableObject, ThemeConfigurable {
     @Published public var primaryButtonStyle: ThemeManager.ButtonStyle
